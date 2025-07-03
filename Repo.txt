@@ -1,0 +1,13 @@
+// ======================Mine======================
+// ================================================
+
+// ======================Temp======================
+// ================================================
+
+register-commands.js:
+const { description } = require('../../Old Stuff/Discord Test Bot/commands/commands');
+
+To avoid replies use:
+    message.channel.send()
+    instead of
+    message.reply()
